@@ -1,10 +1,10 @@
 [
   {
-    "name": "French",
-    "description": "Learn French (Worldwide) with FOSSLingo's interactive French course!",
-    "maintainers": "@iddu01",
+    "name": "Spanish",
+    "description": "Learn Spanish (Worldwide) with FOSSLingo's interactive Spanish course!",
+    "maintainers": "@iddu01 / Unknown",
     "courseID": "0",
-    "courseFolder": "french"
+    "courseFolder": "/spanish"
   },
   {
     "name": "Example Course",
