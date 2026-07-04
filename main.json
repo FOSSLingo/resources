@@ -4,13 +4,15 @@
     "description": "Learn Spanish (Worldwide) with FOSSLingo's interactive Spanish course!",
     "maintainers": "@iddu01 / Unknown",
     "courseID": "0",
-    "courseFolder": "/spanish"
+    "courseFolder": "/spanish",
+    "courseFlag": "/flags/es.svg"
   },
   {
     "name": "Example Course",
     "description": "Learn a language with FOSSLingo's interactive course!",
     "maintainers": "@User",
     "courseID": "{number here}",
-    "courseFolder": "{folder containing resources here}"
+    "courseFolder": "{folder containing resources here}",
+    "courseFlag": "flagHere"
   }
 ]
