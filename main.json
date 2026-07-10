@@ -11,8 +11,8 @@
     "name": "Example Course",
     "description": "Learn a language with FOSSLingo's interactive course!",
     "maintainers": "@User",
-    "courseID": "{number here}",
-    "courseFolder": "{folder containing resources here}",
-    "courseFlag": "flagHere"
+    "courseID": "1",
+    "courseFolder": "/exampleCourse",
+    "courseFlag": "/exampleCourse/exampleCourseFlag.png"
   }
 ]
