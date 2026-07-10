@@ -5,7 +5,8 @@
     "maintainers": "@User",
     "courseID": "0",
     "courseFolder": "{courseFolderHere}",
-    "courseFlag": "/flags/es.svg"
+    "courseFlag": "/flags/es.svg",
+    "hrefTag": "?courseId=0"
   },
   {
     "name": "Spanish",
@@ -13,7 +14,8 @@
     "maintainers": "@iddu01 / Unknown",
     "courseID": "1",
     "courseFolder": "/spanish",
-    "courseFlag": "/flags/es.svg"
+    "courseFlag": "/flags/es.svg",
+    "hrefTag": "?courseId=1"
   }
   
 ]

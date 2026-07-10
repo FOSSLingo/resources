@@ -1,7 +1,6 @@
 {
   "Name": "Example Course",
   "Flag": "/flags/es.svg",
-  "hrefTag": "?courseId=0",
   "Sections": [
     {
       "name": "section-1",
