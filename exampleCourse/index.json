@@ -8,12 +8,14 @@
       "lessons": [ 
         {
           "id": 1,
-          "name": "fillInTheBlanks",
+          "lesson": "Lesson 1",
+          "name": "Fill in the Blanks!",
           "lessonFile": "fillInTheBlanks.yaml"
         },
         {
           "id": 2,
-          "name":"multipleChoice",
+          "lesson": "Lesson 2",
+          "name":"Multiple Choice",
           "lessonFile": "multipleChoice.yaml"
         }
       ]

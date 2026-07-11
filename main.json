@@ -4,7 +4,7 @@
     "description": "Learn a language with FOSSLingo's interactive course!",
     "maintainers": "@User",
     "courseID": "0",
-    "courseFolder": "{courseFolderHere}",
+    "courseFolder": "/exampleCourse",
     "courseFlag": "/flags/es.svg",
     "hrefTag": "?courseId=0"
   },
@@ -17,5 +17,4 @@
     "courseFlag": "/flags/es.svg",
     "hrefTag": "?courseId=1"
   }
-  
 ]
