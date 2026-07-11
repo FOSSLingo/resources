@@ -2,16 +2,20 @@ lessonName: "Fill in the Blanks! (Tech demo)"
 id: 1
 
 questions:
-  - question-1: "The quick brown fox jumped over the ____ dog."
-    option1: "fat"
-    option2: "slow"
-    option3: "dumb"
-    option4: "lazy"
+  - id: 1
+    question: "The quick brown fox jumped over the ____ dog."
+    options:
+      - "fat"
+      - "slow"
+      - "dumb"
+      - "lazy"
     answer: "lazy"
 
-  - question-2: "iddu01 is the ____."
-    option1: "goat"
-    option2: "best"
-    option3: "greatest"
-    option4: "dumbest"
+  - id: 2
+    question: "iddu01 is the ____."
+    options:
+      - "goat"
+      - "best"
+      - "greatest"
+      - "dumbest"
     answer: "goat"
