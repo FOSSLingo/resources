@@ -12,7 +12,7 @@
           "name": "Fill in the Blanks!",
           "lessonFile": "fillInTheBlanks.yaml",
           "lessonType": "fillInTheBlanks",
-          "hrefTag": "&lesson=1"
+          "lessonHrefTag": "&lesson=1"
         },
         {
           "id": 2,
@@ -20,7 +20,7 @@
           "name":"Multiple Choice",
           "lessonFile": "multipleChoice.yaml",
           "lessonType": "multipleChoice",
-          "hrefTag": "&lesson=2"
+          "lessonHrefTag": "&lesson=2"
         }
       ]
     }
