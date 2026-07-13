@@ -3,7 +3,7 @@
     "name": "Example Course",
     "description": "Learn a language with FOSSLingo's interactive course!",
     "maintainers": "@User",
-    "courseID": "0",
+    "courseID": 0,
     "courseFolder": "/exampleCourse",
     "courseFlag": "/flags/es.svg",
     "courseHrefTag": "?courseId=0"
@@ -12,7 +12,7 @@
     "name": "Spanish",
     "description": "Learn Spanish (Worldwide) with FOSSLingo's interactive Spanish course!",
     "maintainers": "@iddu01 / Unknown",
-    "courseID": "1",
+    "courseID": 0,
     "courseFolder": "/spanish",
     "courseFlag": "/flags/es.svg",
     "courseHrefTag": "?courseId=1"

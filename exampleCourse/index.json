@@ -5,10 +5,10 @@
     {
       "name": "section-1",
       "sectionFolder": "/exampleCourse/section-1",
-      "id": 1,
+      "id": 0,
       "lessons": [ 
         {
-          "id": 1,
+          "id": 0,
           "lesson": "Lesson 1",
           "name": "Fill in the Blanks!",
           "lessonFile": "fillInTheBlanks.yaml",
@@ -17,7 +17,7 @@
           "sectionHrefTag": "&section=1"
         },
         {
-          "id": 2,
+          "id": 1,
           "lesson": "Lesson 2",
           "name":"Multiple Choice",
           "lessonFile": "multipleChoice.yaml",
