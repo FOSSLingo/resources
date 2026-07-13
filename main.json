@@ -12,7 +12,7 @@
     "name": "Spanish",
     "description": "Learn Spanish (Worldwide) with FOSSLingo's interactive Spanish course!",
     "maintainers": "@iddu01 / Unknown",
-    "courseID": 0,
+    "courseID": 1,
     "courseFolder": "/spanish",
     "courseFlag": "/flags/es.svg",
     "courseHrefTag": "?courseId=1"
