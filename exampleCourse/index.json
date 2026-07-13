@@ -5,6 +5,7 @@
     {
       "name": "section-1",
       "sectionFolder": "/exampleCourse/section-1",
+      "id": 1,
       "lessons": [ 
         {
           "id": 1,
