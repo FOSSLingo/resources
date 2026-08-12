@@ -19,10 +19,19 @@
         {
           "id": 1,
           "lesson": "Lesson 2",
-          "name":"Multiple Choice",
+          "name": "Multiple Choice",
           "lessonFile": "multipleChoice.yaml",
           "lessonType": "multipleChoice",
           "lessonHrefTag": "&lesson=1",
+          "sectionHrefTag": "&section=0"
+        },
+        {
+          "id": 2,
+          "lesson": "Lesson 3",
+          "name": "Type the Text",
+          "lessonFile": "typeTheText.yaml",
+          "lessonType": "typeTheText",
+          "lessonHrefTag": "&lesson=2",
           "sectionHrefTag": "&section=0"
         }
       ]
