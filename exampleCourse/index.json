@@ -14,7 +14,7 @@
           "lessonFile": "fillInTheBlanks.yaml",
           "lessonType": "fillInTheBlanks",
           "lessonHrefTag": "&lesson=1",
-          "sectionHrefTag": "&section=0"
+          "sectionHrefTag": "&section=1"
         },
         {
           "id": 2,
@@ -23,7 +23,7 @@
           "lessonFile": "multipleChoice.yaml",
           "lessonType": "multipleChoice",
           "lessonHrefTag": "&lesson=2",
-          "sectionHrefTag": "&section=0"
+          "sectionHrefTag": "&section=1"
         },
         {
           "id": 3,
@@ -32,7 +32,7 @@
           "lessonFile": "typeTheText.yaml",
           "lessonType": "typeTheText",
           "lessonHrefTag": "&lesson=3",
-          "sectionHrefTag": "&section=0"
+          "sectionHrefTag": "&section=1"
         },
         {
           "id": 4,
@@ -41,7 +41,7 @@
           "lessonFile": "transcribeTheAudio.yaml",
           "lessonType": "transcribeTheAudio",
           "lessonHrefTag": "&lesson=4",
-          "sectionHrefTag": "&section=0"
+          "sectionHrefTag": "&section=1"
         }
       ]
     }
