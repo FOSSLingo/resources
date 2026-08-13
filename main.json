@@ -6,7 +6,7 @@
     "courseID": 1,
     "courseFolder": "/exampleCourse",
     "courseFlag": "/flags/es.svg",
-    "courseHrefTag": "?courseId=0"
+    "courseHrefTag": "?courseId=1"
   },
   {
     "name": "Spanish",
@@ -15,6 +15,6 @@
     "courseID": 2,
     "courseFolder": "/spanish",
     "courseFlag": "/flags/es.svg",
-    "courseHrefTag": "?courseId=1"
+    "courseHrefTag": "?courseId=2"
   }
 ]
