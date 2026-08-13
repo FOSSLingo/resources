@@ -1,0 +1,13 @@
+lessonName: "Transcribe the audio! (Tech demo)"
+id: 4
+
+questions:
+  - id: 1
+    question: "What does this say?"
+    soundFile: "/exampleCourse/section-1/sounds/transcribeTheAudio/1.mp3"
+    answer: "Hello! I am learning with FOSSLingo."
+
+  - id: 2
+    question: "Type this text with your keyboard:"
+    soundFile: "/exampleCourse/section-1/sounds/transcribeTheAudio/2.mp3"
+    answer: "The quick brown fox jumped over the lazy dog."

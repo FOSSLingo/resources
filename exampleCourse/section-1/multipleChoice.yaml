@@ -1,8 +1,8 @@
 lessonName: "Multiple Choice! (Tech demo)"
-id: 0
+id: 2
 
 questions:
-  - id: 0
+  - id: 1
     question: "Which Coding language is shortened to 'TS'?"
     options:
       - text: "Python"
@@ -18,7 +18,7 @@ questions:
         image: "/exampleCourse/section-1/images/multipleChoice/question-1/java.svg"
         attribution: "https://iconscout.com/free-icon/free-java-logo-icon_2945017"
     answer: "TypeScript"
-  - id: 1
+  - id: 2
     question: "Which of these logos are HackClub's logo?"
     options:
       - text: "GG"

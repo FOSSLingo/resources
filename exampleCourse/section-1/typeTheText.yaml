@@ -1,11 +1,11 @@
-lessonName: "Fill in the Blanks! (Tech demo)"
-id: 0
+lessonName: "Type the text! (Tech demo)"
+id: 3
 
 questions:
-  - id: 0
+  - id: 1
     question: "Type this text with your keyboard:"
     answer: "Hello! I am learning with FOSSLingo."
 
-  - id: 1
+  - id: 2
     question: "Type this text with your keyboard:"
     answer: "The quick brown fox jumped over the lazy dog."
