@@ -13,7 +13,6 @@
           "name": "Fill in the Blanks!",
           "lessonFile": "fillInTheBlanks.yaml",
           "lessonType": "fillInTheBlanks",
-          "lessonHrefTag": "&lesson=1",
           "sectionHrefTag": "&section=1"
         },
         {
@@ -22,7 +21,6 @@
           "name": "Multiple Choice",
           "lessonFile": "multipleChoice.yaml",
           "lessonType": "multipleChoice",
-          "lessonHrefTag": "&lesson=2",
           "sectionHrefTag": "&section=1"
         },
         {
@@ -31,7 +29,6 @@
           "name": "Type the Text",
           "lessonFile": "typeTheText.yaml",
           "lessonType": "typeTheText",
-          "lessonHrefTag": "&lesson=3",
           "sectionHrefTag": "&section=1"
         },
         {
@@ -40,7 +37,6 @@
           "name": "Transcribe the Audio!",
           "lessonFile": "transcribeTheAudio.yaml",
           "lessonType": "transcribeTheAudio",
-          "lessonHrefTag": "&lesson=4",
           "sectionHrefTag": "&section=1"
         }
       ]
