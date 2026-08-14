@@ -12,32 +12,28 @@
           "lesson": "Lesson 1",
           "name": "Fill in the Blanks!",
           "lessonFile": "fillInTheBlanks.yaml",
-          "lessonType": "fillInTheBlanks",
-          "sectionHrefTag": "&section=1"
+          "lessonType": "fillInTheBlanks"
         },
         {
           "id": 2,
           "lesson": "Lesson 2",
           "name": "Multiple Choice",
           "lessonFile": "multipleChoice.yaml",
-          "lessonType": "multipleChoice",
-          "sectionHrefTag": "&section=1"
+          "lessonType": "multipleChoice"
         },
         {
           "id": 3,
           "lesson": "Lesson 3",
           "name": "Type the Text",
           "lessonFile": "typeTheText.yaml",
-          "lessonType": "typeTheText",
-          "sectionHrefTag": "&section=1"
+          "lessonType": "typeTheText"
         },
         {
           "id": 4,
           "lesson": "Lesson 4",
           "name": "Transcribe the Audio!",
           "lessonFile": "transcribeTheAudio.yaml",
-          "lessonType": "transcribeTheAudio",
-          "sectionHrefTag": "&section=1"
+          "lessonType": "transcribeTheAudio"
         }
       ]
     }
